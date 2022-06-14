@@ -3,4 +3,5 @@
 
 ## Requirments / Требования
 Библеотека telebot
+
 `pip install pytelegrambotapi`
